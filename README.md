@@ -1,5 +1,11 @@
 # 💫 About Me:
-I'm full sack-web developer<br>I'm still learning<br>etc
+Hi, I’m Munna
+
+I’m a Full-Stack Web Developer who enjoys building complete web applications from front end to back end. I like working on clean user interfaces as much as I enjoy handling logic, databases, and server-side functionality.
+
+I work with HTML, CSS, JavaScript, and back-end technologies to create responsive, scalable, and reliable applications. I focus on writing clean code, following best practices, and building solutions that are easy to maintain and use.
+
+Always learning, improving, and open to collaboration on meaningful projects.
 
 
 ## 🌐 Socials:
